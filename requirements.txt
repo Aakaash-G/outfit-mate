@@ -1,0 +1,15 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+streamlit>=1.40
+numpy
+pillow
+requests
+python-dotenv
+matplotlib
+torch
+torchvision
+open_clip_torch
+rembg
+onnxruntime
+google-genai
+pytest
+openai

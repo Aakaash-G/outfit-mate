@@ -1,0 +1,1 @@
+"""Generative model for Outfit Mate: a Variational Autoencoder trained on Fashion-MNIST."""

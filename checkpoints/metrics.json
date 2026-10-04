@@ -1,0 +1,17 @@
+{
+  "vae": {
+    "display": "Variational Autoencoder (VAE)",
+    "params_M": 1.69,
+    "epochs": 20,
+    "z_dim": 16,
+    "train_minutes": 7.2,
+    "device": "cpu",
+    "quick_run": false,
+    "neg_elbo": 237.7706,
+    "recon_bce": 223.2457,
+    "kl": 14.5249,
+    "recon_mse": 0.0143,
+    "fid": 68.38,
+    "fid_reconstructions": 30.44
+  }
+}
